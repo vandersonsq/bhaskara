@@ -1,0 +1,33 @@
+C:\Users\Vanderson\source\repos\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Vanderson\source\repos\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\Vanderson\source\repos\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Vanderson\source\repos\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Vanderson\source\repos\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\Vanderson\source\repos\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Vanderson\source\repos\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Vanderson\source\repos\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\source\repos\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\Vanderson\source\repos\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\bin\Debug\Teste.exe.config
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\bin\Debug\Teste.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\bin\Debug\Teste.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\obj\Debug\Teste.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\obj\Debug\Teste.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Bhaskara\Teste\obj\Debug\Teste.frmBhaskara.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\bin\Debug\Teste.exe.config
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\bin\Debug\Teste.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\bin\Debug\Teste.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\obj\Debug\Teste.exe
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\obj\Debug\Teste.pdb
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\obj\Debug\Teste.newDelta3.resources
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\bin\Debug\MetroFramework.dll
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vanderson\OneDrive - sga.pucminas.br\Vanderson\Faculdade\2º Semestre 2018\POO - Lab\C#\Finalizados\Bhaskara\Teste\obj\Debug\Teste.csproj.CopyComplete
